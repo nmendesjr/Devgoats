@@ -1,0 +1,1008 @@
+.root {
+  height: 4334.4072px;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+}
+.background {
+  width: 1366px;
+  height: 4934px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: visible;
+}
+.interestedInWorkingWithMe {
+  color: #fff;
+  font-size: 50px;
+  font-weight: 900;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -1.0499px;
+  position: absolute;
+  left: 89px;
+  top: 4650px;
+  white-space: nowrap;
+}
+.letSGetSocial {
+  color: #fff;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.3199px;
+  position: absolute;
+  left: 892px;
+  top: 4671px;
+  white-space: nowrap;
+}
+.cTAButton {
+  width: 162px;
+  height: 72px;
+  align-items: flex-start;
+  position: absolute;
+  left: 89px;
+  top: 4791px;
+  overflow: hidden;
+}
+.rectangle241 {
+  position: absolute;
+  left: 3.7037%;
+  right: 0;
+  top: 20.8333%;
+  bottom: 23.6111%;
+  overflow: visible;
+}
+.rectangle240 {
+  position: absolute;
+  left: 0;
+  right: 25.9259%;
+  top: 20.8333%;
+  bottom: 23.6111%;
+  overflow: visible;
+}
+.messageMe {
+  color: #000;
+  font-size: 16px;
+  line-height: 72px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.416px;
+  position: absolute;
+  left: 7.4074%;
+  right: 33.3333%;
+  top: 0;
+  white-space: nowrap;
+}
+.iconIonicIosSend {
+  position: absolute;
+  left: 77.9138%;
+  right: 9.6577%;
+  top: 34.629%;
+  bottom: 37.4069%;
+  overflow: visible;
+}
+.iconAwesomeInstagram {
+  width: 25.499px;
+  height: 25.4932px;
+  position: absolute;
+  left: 951.0005px;
+  top: 4718.2533px;
+  overflow: visible;
+}
+.rectangle244 {
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1061px;
+  top: 4715px;
+  overflow: visible;
+}
+.sectionHeading {
+  color: #fff;
+  font-size: 50px;
+  font-weight: 900;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -1.0499px;
+  position: absolute;
+  left: 87px;
+  top: 2964px;
+  white-space: nowrap;
+}
+.background2 {
+  width: 368px;
+  height: 331px;
+  position: absolute;
+  left: 82px;
+  top: 3089px;
+  overflow: visible;
+}
+.line {
+  width: 368px;
+  max-width: 100%;
+  height: 5px;
+  max-height: 100%;
+  position: absolute;
+  left: 82.5px;
+  top: 3089.5px;
+  overflow: visible;
+}
+.one {
+  color: #a8a8a8;
+  font-size: 18px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3779px;
+  position: absolute;
+  left: 111px;
+  top: 3131px;
+  white-space: nowrap;
+}
+.research {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.6299px;
+  position: absolute;
+  left: 111px;
+  top: 3164px;
+  white-space: nowrap;
+}
+.loremIpsumDolorSitAmetConsetet {
+  color: #a8a8a8;
+  font-size: 18px;
+  line-height: 32px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 316px;
+  height: 150px;
+  position: absolute;
+  left: 111px;
+  top: 3218px;
+}
+.background3 {
+  width: 368px;
+  height: 331px;
+  position: absolute;
+  left: 499px;
+  top: 3089px;
+  overflow: visible;
+}
+.line2 {
+  width: 368px;
+  max-width: 100%;
+  height: 5px;
+  max-height: 100%;
+  position: absolute;
+  left: 499px;
+  top: 3089px;
+  overflow: visible;
+}
+.two {
+  color: #a8a8a8;
+  font-size: 18px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3779px;
+  position: absolute;
+  left: 526px;
+  top: 3131px;
+  white-space: nowrap;
+}
+.concept {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.6299px;
+  position: absolute;
+  left: 526px;
+  top: 3164px;
+  white-space: nowrap;
+}
+.loremIpsumDolorSitAmetConsetet2 {
+  color: #a8a8a8;
+  font-size: 18px;
+  line-height: 32px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 319px;
+  height: 150px;
+  position: absolute;
+  left: 526px;
+  top: 3218px;
+}
+.background4 {
+  width: 368px;
+  height: 331px;
+  position: absolute;
+  left: 82px;
+  top: 3513px;
+  overflow: visible;
+}
+.line3 {
+  width: 368px;
+  max-width: 100%;
+  height: 5px;
+  max-height: 100%;
+  position: absolute;
+  left: 82px;
+  top: 3513px;
+  overflow: visible;
+}
+.three {
+  color: #a8a8a8;
+  font-size: 18px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3779px;
+  position: absolute;
+  left: 109px;
+  top: 3555px;
+  white-space: nowrap;
+}
+.development {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.6299px;
+  position: absolute;
+  left: 109px;
+  top: 3588px;
+  white-space: nowrap;
+}
+.loremIpsumDolorSitAmetConsetet3 {
+  color: #a8a8a8;
+  font-size: 18px;
+  line-height: 32px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 319px;
+  height: 150px;
+  position: absolute;
+  left: 109px;
+  top: 3642px;
+}
+.background5 {
+  width: 368px;
+  height: 331px;
+  position: absolute;
+  left: 499px;
+  top: 3513px;
+  overflow: visible;
+}
+.line4 {
+  width: 368px;
+  max-width: 100%;
+  height: 5px;
+  max-height: 100%;
+  position: absolute;
+  left: 499px;
+  top: 3513px;
+  overflow: visible;
+}
+.three2 {
+  color: #a8a8a8;
+  font-size: 18px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3779px;
+  position: absolute;
+  left: 526px;
+  top: 3555px;
+  white-space: nowrap;
+}
+.development2 {
+  color: #fff;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.6299px;
+  position: absolute;
+  left: 526px;
+  top: 3588px;
+  white-space: nowrap;
+}
+.loremIpsumDolorSitAmetConsetet4 {
+  color: #a8a8a8;
+  font-size: 18px;
+  line-height: 32px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 319px;
+  height: 150px;
+  position: absolute;
+  left: 526px;
+  top: 3642px;
+}
+.latestWorks {
+  color: #fff;
+  font-size: 60px;
+  font-weight: 900;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -1.0499px;
+  width: 356px;
+  position: absolute;
+  left: 73px;
+  top: 1847px;
+}
+.rectangle217 {
+  width: 408px;
+  height: 396px;
+  position: absolute;
+  left: 437px;
+  top: 1845px;
+  overflow: visible;
+}
+.digartNFT {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 900;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.6299px;
+  position: absolute;
+  left: 464px;
+  top: 1879px;
+  white-space: nowrap;
+}
+.webDesign {
+  color: #a8a8a8;
+  font-size: 16px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3358px;
+  position: absolute;
+  left: 464px;
+  top: 1925px;
+  white-space: nowrap;
+}
+.rectangle218 {
+  width: 408px;
+  height: 563px;
+  position: absolute;
+  left: 886px;
+  top: 1845px;
+  overflow: visible;
+}
+.rectangle223 {
+  width: 128px;
+  height: 44px;
+  position: absolute;
+  left: 933px;
+  top: 1979px;
+  overflow: visible;
+}
+.jiwaRaga {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 900;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.6299px;
+  position: absolute;
+  left: 910px;
+  top: 1882px;
+  white-space: nowrap;
+}
+.webDesign2 {
+  color: #a8a8a8;
+  font-size: 16px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3358px;
+  position: absolute;
+  left: 910px;
+  top: 1928px;
+  white-space: nowrap;
+}
+.drawing2194233 {
+  width: 700px;
+  height: 550px;
+  position: absolute;
+  left: 740px;
+  top: 1882px;
+}
+.rectangle219 {
+  width: 408px;
+  height: 563px;
+  position: absolute;
+  left: 437px;
+  top: 2291px;
+  overflow: visible;
+}
+.tekfin {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 900;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.6299px;
+  position: absolute;
+  left: 463px;
+  top: 2316px;
+  white-space: nowrap;
+}
+.dashboardDesign {
+  color: #a8a8a8;
+  font-size: 16px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3358px;
+  position: absolute;
+  left: 463px;
+  top: 2362px;
+  white-space: nowrap;
+}
+.rectangle220 {
+  width: 408px;
+  height: 396px;
+  position: absolute;
+  left: 886px;
+  top: 2458px;
+  overflow: visible;
+}
+.rectangle224 {
+  width: 239px;
+  height: 71px;
+  position: absolute;
+  left: 886px;
+  top: 2529px;
+  overflow: visible;
+}
+.investmentApp {
+  color: #fff;
+  font-size: 30px;
+  font-weight: 900;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.6299px;
+  position: absolute;
+  left: 918px;
+  top: 2486px;
+  white-space: nowrap;
+}
+.appDesign {
+  color: #a8a8a8;
+  font-size: 16px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.3358px;
+  position: absolute;
+  left: 918px;
+  top: 2532px;
+  white-space: nowrap;
+}
+.problemSolving2194252 {
+  width: 700px;
+  height: 550px;
+  position: absolute;
+  left: 789px;
+  top: 2464px;
+}
+.cTAButton2 {
+  width: 162px;
+  height: 72px;
+  align-items: flex-start;
+  position: absolute;
+  left: 73px;
+  top: 2132px;
+  overflow: hidden;
+}
+.rectangle2412 {
+  position: absolute;
+  left: 3.7037%;
+  right: 0;
+  top: 20.8333%;
+  bottom: 23.6111%;
+  overflow: visible;
+}
+.rectangle2402 {
+  position: absolute;
+  left: 0;
+  right: 25.9259%;
+  top: 20.8333%;
+  bottom: 23.6111%;
+  overflow: visible;
+}
+.messageMe2 {
+  color: #000;
+  font-size: 16px;
+  line-height: 72px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.416px;
+  position: absolute;
+  left: 7.4074%;
+  right: 47.5308%;
+  top: 0;
+  white-space: nowrap;
+}
+.iconIonicIosSend2 {
+  position: absolute;
+  left: 77.9138%;
+  right: 9.6577%;
+  top: 34.629%;
+  bottom: 37.4069%;
+  overflow: visible;
+}
+.mapFindingRouteUsiInMobilengNa {
+  width: 700px;
+  height: 550px;
+  position: absolute;
+  left: 270px;
+  top: 2362px;
+}
+.searching2194247 {
+  width: 700px;
+  height: 550px;
+  position: absolute;
+  left: 315px;
+  top: 1837px;
+}
+.background6 {
+  width: 1296px;
+  height: 642px;
+  position: absolute;
+  left: 35px;
+  top: 1095px;
+  overflow: visible;
+}
+.background7 {
+  width: 812.5px;
+  height: 105.5px;
+  position: absolute;
+  left: 458.9999px;
+  top: 1207px;
+  overflow: visible;
+}
+.brandConsultant {
+  color: #fff;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.3199px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 612.9999px;
+  top: 1240px;
+  white-space: nowrap;
+}
+.loremIpsumDolorSitAmetConsetet5 {
+  color: #a8a8a8;
+  font-size: 14px;
+  line-height: 25px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.28px;
+  width: 357px;
+  height: 44px;
+  position: absolute;
+  left: 811.9999px;
+  top: 1238px;
+}
+.icon {
+  width: 38.0576px;
+  height: 44.3206px;
+  position: absolute;
+  left: 491.746px;
+  top: 1238px;
+  overflow: visible;
+}
+.background8 {
+  width: 812.9335px;
+  height: 105.5px;
+  position: absolute;
+  left: 458.5664px;
+  top: 1311.5px;
+  overflow: visible;
+}
+.uIUXSolutions {
+  color: #fff;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.3199px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 613px;
+  top: 1344px;
+  white-space: nowrap;
+}
+.loremIpsumDolorSitAmetConsetet6 {
+  color: #a8a8a8;
+  font-size: 14px;
+  line-height: 25px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.28px;
+  width: 358px;
+  height: 44px;
+  position: absolute;
+  left: 812px;
+  top: 1343px;
+}
+.icon2 {
+  width: 36.0644px;
+  height: 36.0644px;
+  position: absolute;
+  left: 492.4182px;
+  top: 1347.015px;
+  overflow: visible;
+}
+.background9 {
+  width: 812.9335px;
+  height: 105.5px;
+  position: absolute;
+  left: 458.5664px;
+  top: 1417px;
+  overflow: visible;
+}
+.packagingDesign {
+  color: #fff;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.3199px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 613px;
+  top: 1449px;
+  white-space: nowrap;
+}
+.loremIpsumDolorSitAmetConsetet7 {
+  color: #a8a8a8;
+  font-size: 14px;
+  line-height: 25px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.28px;
+  width: 358px;
+  height: 44px;
+  position: absolute;
+  left: 812px;
+  top: 1448px;
+}
+.icon3 {
+  width: 49.2151px;
+  height: 47.6877px;
+  position: absolute;
+  left: 486.5213px;
+  top: 1446.1561px;
+  overflow: visible;
+}
+.background10 {
+  width: 812.9335px;
+  height: 105.5px;
+  position: absolute;
+  left: 458.9999px;
+  top: 1522.5px;
+  overflow: visible;
+}
+.motionVideoTVC {
+  color: #fff;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.3199px;
+  text-transform: uppercase;
+  position: absolute;
+  left: 613.9999px;
+  top: 1555px;
+  white-space: nowrap;
+}
+.loremIpsumDolorSitAmetConsetet8 {
+  color: #a8a8a8;
+  font-size: 14px;
+  line-height: 21px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.28px;
+  width: 358px;
+  height: 44px;
+  position: absolute;
+  left: 812.9999px;
+  top: 1554px;
+}
+._172629_camera_video_icon {
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  left: 491.9998px;
+  top: 1558.0001px;
+  overflow: visible;
+}
+.myServices {
+  color: #fff;
+  font-size: 50px;
+  font-weight: 900;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -1.0499px;
+  position: absolute;
+  left: 66px;
+  top: 1221px;
+  white-space: nowrap;
+}
+.rectangle90 {
+  width: 169px;
+  height: 101px;
+  position: absolute;
+  left: 73px;
+  top: 1456px;
+  overflow: visible;
+}
+._120 {
+  color: #fff;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 73px;
+  top: 1475px;
+  white-space: nowrap;
+}
+.satisfiedClients {
+  color: #a8a8a8;
+  font-size: 16px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.416px;
+  position: absolute;
+  left: 73px;
+  top: 1519px;
+  white-space: nowrap;
+}
+.rectangle902 {
+  width: 169px;
+  height: 101px;
+  position: absolute;
+  left: 73px;
+  top: 1571px;
+  overflow: visible;
+}
+._285 {
+  color: #fff;
+  font-size: 35px;
+  font-weight: bold;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  text-transform: uppercase;
+  position: absolute;
+  left: 73px;
+  top: 1590px;
+  white-space: nowrap;
+}
+.projectsCompleted {
+  color: #a8a8a8;
+  font-size: 16px;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.416px;
+  position: absolute;
+  left: 73px;
+  top: 1634px;
+  white-space: nowrap;
+}
+.airbnb {
+  width: 230px;
+  height: 100px;
+  position: absolute;
+  left: 115px;
+  top: 894px;
+  overflow: visible;
+}
+.amazon {
+  width: 205px;
+  height: 100px;
+  position: absolute;
+  left: 362px;
+  top: 894px;
+  overflow: visible;
+}
+.stripe {
+  width: 230px;
+  height: 80px;
+  position: absolute;
+  left: 592px;
+  top: 904px;
+  overflow: visible;
+}
+.microsoft {
+  width: 230px;
+  height: 75px;
+  position: absolute;
+  left: 838px;
+  top: 909px;
+  overflow: visible;
+}
+.over120BusinessGrowingMe {
+  color: #fff;
+  font-size: 22px;
+  line-height: 32px;
+  font-weight: 900;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.4399px;
+  position: absolute;
+  left: 445px;
+  top: 834px;
+  white-space: nowrap;
+}
+.background11 {
+  width: 1400px;
+  height: 770px;
+  position: absolute;
+  left: 7px;
+  top: 0;
+  overflow: visible;
+}
+.designElements {
+  width: 217.7772px;
+  height: 96.4px;
+  position: absolute;
+  left: 824.69px;
+  top: 624px;
+  overflow: visible;
+}
+.cTAButton3 {
+  width: 165.7894px;
+  height: 72px;
+  align-items: flex-start;
+  position: absolute;
+  left: 490.0409px;
+  top: 552px;
+}
+.rectangle2413 {
+  position: absolute;
+  left: 3.7037%;
+  right: 0;
+  top: 22.2222%;
+  bottom: 22.2222%;
+  overflow: visible;
+}
+.rectangle2403 {
+  position: absolute;
+  left: 0;
+  right: 16.0493%;
+  top: 22.2222%;
+  bottom: 22.2222%;
+  overflow: visible;
+}
+.messageMe3 {
+  color: #000;
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Roboto, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.416px;
+  position: absolute;
+  left: 7.4074%;
+  right: 19.753%;
+  top: 37.5%;
+}
+.iconIonicIosSend3 {
+  position: absolute;
+  left: 84.0926%;
+  right: 3.6209%;
+  top: 36.1111%;
+  bottom: 35.5978%;
+  overflow: visible;
+}
+.helloIAmAdinAProductDesigner {
+  color: #fff;
+  font-size: 60px;
+  line-height: 71px;
+  font-weight: bold;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -2.0399px;
+  width: 1001.9005px;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  left: 96px;
+  top: 314px;
+}
+.logo {
+  color: #fff;
+  font-size: 25px;
+  font-weight: 900;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  width: 171.9298px;
+  text-align: center;
+  justify-content: center;
+  position: absolute;
+  left: 83.7544px;
+  top: 44px;
+}
+.startAProject {
+  color: #fff;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: Airbnb Cereal App, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.4199px;
+  width: 103.3625px;
+  position: absolute;
+  left: 1255.5379px;
+  top: 44px;
+}
+.line12 {
+  width: 46.0526px;
+  max-width: 100%;
+  height: 3px;
+  max-height: 100%;
+  position: absolute;
+  left: 1304.6606px;
+  top: 70px;
+  overflow: visible;
+}
+.label {
+  color: #fff;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.3639px;
+}
+.label2 {
+  color: #fff;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.3639px;
+  text-decoration: underline;
+}
+.labelWrapper {
+  font-size: 14px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+._2021OctetDesignStudio {
+  position: absolute;
+  left: 65.3001%;
+  right: 18.5212%;
+  top: 104.6048%;
+}
+.employeeGoingOffceOnCycle21941 {
+  width: 700px;
+  height: 550px;
+  position: absolute;
+  left: 605px;
+  top: 349px;
+}
+.superBoss2194245 {
+  width: 890.9091px;
+  height: 700px;
+  position: absolute;
+  left: 620px;
+  top: 3258px;
+}
